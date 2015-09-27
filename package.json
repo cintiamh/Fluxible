@@ -1,6 +1,15 @@
 {
   "name": "fluxible",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Basic environment setup for a Fluxible project",
+  "engines": {
+    "node": "0.12.5",
+    "npm": "2.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cintiamh/Fluxible.git"
+  },
   "private": true,
   "main": "start.js",
   "scripts": {
